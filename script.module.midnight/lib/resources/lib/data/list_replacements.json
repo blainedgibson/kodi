@@ -1,0 +1,18 @@
+{
+  "users/giladg/lists/top-10-movies-of-the-week/items?": {
+    "type": "trakt",
+    "endpoint": "boxoffice"
+  },
+  "users/giladg/lists/academy-award-for-best-cinematography/items?": {
+    "type": "tmdb",
+    "endpoint": "cinematography_oscars"
+  },
+  "users/giladg/lists/stand-up-comedy/items?": {
+    "type": "tmdb",
+    "endpoint": "standup_comedy"
+  },
+  "users/movistapp/lists/walt-disney-animated-feature-films/items?": {
+    "type": "tmdb",
+    "endpoint": "tmdb_movie_popular"
+  }
+}

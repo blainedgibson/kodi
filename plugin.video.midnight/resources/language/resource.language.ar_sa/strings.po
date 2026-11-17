@@ -1,0 +1,167 @@
+# Addon Name: Midnight
+# Addon id: plugin.video.Midnight
+# Addon Provider: Midnight
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: Midnight\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2016-08-01 02:03+0000\n"
+"Last-Translator: lambda81\n"
+"Language-Team: English (http://www.transifex.com/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "#32001"
+msgid "Movies"
+msgstr "الأفلام"
+
+msgctxt "#32002"
+msgid "TV Shows"
+msgstr "المسلسلات"
+
+msgctxt "#32005"
+msgid "New Movies"
+msgstr "أخر الأفلام"
+
+msgctxt "#32006"
+msgid "New Episodes"
+msgstr "أحر الحلقات"
+
+msgctxt "#32007"
+msgid "Channels"
+msgstr "القنوات"
+
+msgctxt "#32008"
+msgid "Tools"
+msgstr "الأدوات"
+
+msgctxt "#32009"
+msgid "Downloads"
+msgstr "التحميلات"
+
+msgctxt "#32010"
+msgid "Search"
+msgstr "بحث"
+
+msgctxt "#32012"
+msgid "Year"
+msgstr "السنة"
+
+msgctxt "#32013"
+msgid "People"
+msgstr "المشاهدين"
+
+msgctxt "#90285"
+msgid "[COLOR FF56B6B0]¤[/COLOR] [B][COLOR FF56B6B0]What's On[/COLOR][/B] [COLOR FF56B6B0]¤[/COLOR]"
+msgstr ""
+
+msgctxt "#90286"
+msgid "[COLOR FF56B6B0]¤[/COLOR] [B][COLOR FF56B6B0]Today[/COLOR][/B] [COLOR FF56B6B0]¤[/COLOR]"
+msgstr ""
+
+msgctxt "#90287"
+msgid "[COLOR FF56B6B0]¤[/COLOR] [B][COLOR FF56B6B0]This Week[/COLOR][/B] [COLOR FF56B6B0]¤[/COLOR]"
+msgstr ""
+
+msgctxt "#90288"
+msgid "[COLOR FF56B6B0]¤[/COLOR] [B][COLOR FF56B6B0]This Month[/COLOR][/B] [COLOR FF56B6B0]¤[/COLOR]"
+msgstr ""
+
+msgctxt "#90289"
+msgid "[B][COLOR FF56B6B0]MIDNIGHT[/COLOR][/B] : [COLOR FFE5E9EF]Clear debrid cache check...[/COLOR]"
+msgstr ""
+
+msgctxt "#90290"
+msgid "Clear local debrid torrent cache status?[CR][CR]Next scrape will re-check Real-Debrid, AllDebrid, Premiumize, and TorBox from API.[CR][CR]Are you sure?"
+msgstr ""
+
+msgctxt "#90291"
+msgid "Debrid cache check cleared successfully"
+msgstr ""
+
+msgctxt "#90292"
+msgid "Watch Tracking"
+msgstr ""
+
+msgctxt "#90293"
+msgid "Tracking service"
+msgstr ""
+
+msgctxt "#90294"
+msgid "Trakt only"
+msgstr ""
+
+msgctxt "#90295"
+msgid "Simkl only"
+msgstr ""
+
+msgctxt "#90296"
+msgid "Trakt and Simkl"
+msgstr ""
+
+msgctxt "#90297"
+msgid "Simkl"
+msgstr ""
+
+msgctxt "#90298"
+msgid "Enable Simkl sync (scrobbling)"
+msgstr ""
+
+msgctxt "#90299"
+msgid "Use this option for real-time syncing with Simkl when playing\nany video. Switch off when other addon(s) already scrobble"
+msgstr ""
+
+msgctxt "#90300"
+msgid "Remove Simkl authorization"
+msgstr ""
+
+msgctxt "#90301"
+msgid "Optional — register free at simkl.com/settings/developer/new to use your own Client ID"
+msgstr ""
+
+msgctxt "#90302"
+msgid "Magneto"
+msgstr ""
+
+msgctxt "#90303"
+msgid "Enable Magneto"
+msgstr ""
+
+msgctxt "#90304"
+msgid "(Requires script.module.magneto installed)"
+msgstr ""
+
+msgctxt "#90305"
+msgid "[B][COLOR FF56B6B0]Magneto[/COLOR][/B] : [B][COLOR FF56B6B0]Installed[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#90306"
+msgid "[B][COLOR FF56B6B0]Magneto[/COLOR][/B] : [B][COLOR FFD97979]not Installed[/COLOR][/B]"
+msgstr ""
+
+msgctxt "#90307"
+msgid "Remove Trakt authorization"
+msgstr ""
+
+msgctxt "#90308"
+msgid "[B][COLOR FF56B6B0]TRAKT[/COLOR][/B] : [COLOR FFE5E9EF]Revoke authorization[/COLOR]"
+msgstr ""
